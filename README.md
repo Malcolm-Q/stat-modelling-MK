@@ -10,7 +10,7 @@
     * While I can learn to use modules for statistical modeling quickly I don't quite have an intuitive comprehension of how to apply everything.
     * In other words I can do many things in the world of statistical modeling but I have a poor fundemental understanding of the things I am doing.
     * This naturally harms my confidence working with statistical modeling so I am aiming to build a stronger comprehension by the end of the project.
-
+    
 ## Process
 ### (your step 1)
 ### (your step 2)
@@ -23,3 +23,12 @@
 
 ## Future Goals
 (what would you do if you had more time?)
+
+
+# Table of Contents
+* [Data](/data/)
+* Notebooks
+    * [city_bikes](/notebooks/city_bikes.ipynb)
+    * [yelp_foursquare_EDA](/notebooks/yelp_foursquare_EDA.ipynb)
+    * [joining_data](/notebooks/joining_data.ipynb)
+    * [model_building](/notebooks/model_building.ipynb)
