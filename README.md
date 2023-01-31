@@ -3,7 +3,7 @@
 ## Table of Contents
 *(CTRL+LMB) to open in new tab*
 * [Data](/data/)
-    *[PowerPoint](https://docs.google.com/presentation/d/1BEtuGz384fHrowA51wvoreLauoCn2Os_hlGUewdCNeU/edit?usp=sharing)
+    * [PowerPoint](https://docs.google.com/presentation/d/1BEtuGz384fHrowA51wvoreLauoCn2Os_hlGUewdCNeU/edit?usp=sharing)
 * Notebooks
     * [city_bikes](/notebooks/city_bikes.ipynb)
     * [yelp_foursquare_EDA](/notebooks/yelp_foursquare_EDA.ipynb)
